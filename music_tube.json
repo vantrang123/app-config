@@ -1,5 +1,5 @@
 {
-  "version": "8.3.5",
-  "force_update": false,
-  "build_number": 80
+  "version": "8.3.7",
+  "force_update": true,
+  "build_number": 82
 }

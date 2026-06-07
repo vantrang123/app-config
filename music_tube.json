@@ -1,5 +1,6 @@
 {
   "version": "8.7.0",
   "force_update": false,
-  "build_number": 101
+  "build_number": 101,
+  "app_package_name": "com.lifesolutions.musictube"
 }

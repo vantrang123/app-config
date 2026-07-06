@@ -1,6 +1,6 @@
 {
-  "version": "10.0.0",
-  "force_update": true,
-  "build_number": 228,
+  "version": "10.2.1",
+  "force_update": false,
+  "build_number": 233,
   "app_package_name": "com.lifesolutions.backgroundplayer"
 }

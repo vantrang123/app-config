@@ -1,6 +1,6 @@
 {
   "version": "10.3.2",
-  "force_update": false,
-  "build_number": 238,
-  "app_package_name": "com.lifesolutions.backgroundplayer"
+  "force_update": true,
+  "build_number": 239,
+  "app_package_name": "com.lifesolutions.musictube"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "10.4.2",
-  "force_update": true,
+  "version": "10.5.0",
+  "force_update": false,
   "build_number": 254,
   "app_package_name": "com.lifesolutions.tubemusic"
 }

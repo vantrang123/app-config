@@ -1,6 +1,6 @@
 {
-  "version": "10.5.0",
+  "version": "1.0.0",
   "force_update": false,
-  "build_number": 254,
-  "app_package_name": "com.lifesolutions.tubemusic"
+  "build_number": 1,
+  "app_package_name": "com.lifesolutions.backgroundplayer"
 }

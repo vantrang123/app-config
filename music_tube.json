@@ -1,6 +1,6 @@
 {
-  "version": "8.13.0",
+  "version": "1.1.0",
   "force_update": false,
-  "build_number": 130,
-  "app_package_name": "com.lifesolutions.tubemusic"
+  "build_number": 1,
+  "app_package_name": "com.lifesolutions.musictube"
 }

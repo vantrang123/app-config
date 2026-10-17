@@ -1,5 +1,6 @@
 {
   "version": "1.1.0",
   "force_update": false,
-  "build_number": 2
+  "build_number": 2,
+  "message": "hello!"
 }
